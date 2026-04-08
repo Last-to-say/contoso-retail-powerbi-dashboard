@@ -1,7 +1,9 @@
 # Contoso Retail — Power BI Dashboard
 
 Analytický dashboard na úrovni vedení společnosti, postavený na datasetu SQLBI Contoso.
+
 Projekt pokrývá **tržby ve výši 223 mil. USD** napříč **8 zeměmi, 67 prodejnami a 10 lety dat (2016–2025)**.
+
 Simuluje reálný BI workflow — od práce se surovými CSV soubory přes datové modelování a DAX výpočty až po finální dashboard zaměřený na podporu rozhodování.
 ---
 
